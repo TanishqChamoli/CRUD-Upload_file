@@ -34,3 +34,19 @@
             creates a session
         5. logout.php
             destroys the session
+            
+## The flow of Task3:
+    
+    The url in which we can see the table of the images.
+    http://localhost/Task3/
+    As we have already changed the name of the default_controller to the home page
+    so we are directly gonna go on that page.
+   
+## The flow of Task4:
+    
+    The goal of this task was to make a CRUD application and to display
+    all the data from the database on the same page, with the updatate and delete buttons.
+  
+    We are using User.php as the model and the Usermodel.php as the one which deasl with
+    the data base.
+    This is the url http://localhost/Task4/user/create
