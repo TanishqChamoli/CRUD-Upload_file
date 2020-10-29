@@ -50,3 +50,7 @@
     We are using User.php as the model and the Usermodel.php as the one which deasl with
     the data base.
     This is the url http://localhost/Task4/user/create
+
+## The flow of Task5:
+
+    I've made the SB Admin from bootstrap into a template which is available in CI.
