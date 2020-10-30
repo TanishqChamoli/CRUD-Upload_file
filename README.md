@@ -54,3 +54,10 @@
 ## The flow of Task5:
 
     I've made the SB Admin from bootstrap into a template which is available in CI.
+
+## The flow of Task6:
+    
+    I've made a login and signup connection with the database and will also give out
+    the results in flashdata and will be displayed in h5 of both of them
+    lorem@ipsum.com:test [INSERTED USER]
+    If needed you can insert the values after importing the database
