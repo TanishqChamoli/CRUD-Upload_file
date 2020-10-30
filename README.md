@@ -60,4 +60,4 @@
     I've made a login and signup connection with the database and will also give out
     the results in flashdata and will be displayed in h5 of both of them
     lorem@ipsum.com:test [INSERTED USER]
-    If needed you can insert the values after importing the databse
+    If needed you can insert the values after importing the database
