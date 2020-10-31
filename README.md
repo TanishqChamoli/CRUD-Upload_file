@@ -61,3 +61,10 @@
     the results in flashdata and will be displayed in h5 of both of them
     lorem@ipsum.com:test [INSERTED USER]
     If needed you can insert the values after importing the database
+
+## The flow of Task7:
+
+    Default landing page is the own_form page and we are getting the form with email,pass
+    and info as the params and we are inserting the data in the table. In the side bar there
+    are both the form as own_form and the table as own_table in which we are displaying the whole
+    database entries.
