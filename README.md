@@ -68,3 +68,8 @@
     and info as the params and we are inserting the data in the table. In the side bar there
     are both the form as own_form and the table as own_table in which we are displaying the whole
     database entries.
+
+## The flow of Task8:
+    The login is test@test.com:test or lorem@ipsum.com:1234 and then and then only we are able to
+    to access the admin page and else we are redirected to the login page. We have the logout option
+    in the navbar and we will be deleting the session on the click of that button.
