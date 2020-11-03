@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/Task8-Sessions/';
+$config['base_url'] = 'http://localhost/Eiancoder/Admin_panel/';
 
 /*
 |--------------------------------------------------------------------------
