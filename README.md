@@ -73,3 +73,7 @@
     The login is test@test.com:test or lorem@ipsum.com:1234 and then and then only we are able to
     to access the admin page and else we are redirected to the login page. We have the logout option
     in the navbar and we will be deleting the session on the click of that button.
+
+## The flow of Task9:
+    The confi file base url must be changed first of all and then the own_table must be visited then we
+    can edit the form or the data which has already been inserted.
