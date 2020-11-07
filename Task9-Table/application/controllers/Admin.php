@@ -163,11 +163,11 @@ class Admin extends CI_Controller
                 $this->not_login();
                 $this->load->view('dashboard/500');
         }
-        public function delete_user()
+        public function delete_user($id)
         {
                 $this->load->model('Adminmodel');
-
-                $this->load->view('dashboard/500');
+                $this->Adminmodel->userDelete($id);
+                redirect(base_url() . "index.php/Admin/own_tables");
         }
         public function update_user($id)
         {
