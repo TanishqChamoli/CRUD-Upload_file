@@ -75,5 +75,10 @@
     in the navbar and we will be deleting the session on the click of that button.
 
 ## The flow of Task9:
-    The confi file base url must be changed first of all and then the own_table must be visited then we
+    The config file base url must be changed first of all and then the own_table must be visited then we
     can edit the form or the data which has already been inserted.
+
+## The flow of Task10:
+    The config file must be updated to the correct path!
+    We have put js function for the confirmation of the delete part and only if we click on confirm the 
+    the data is deleted else nothing else happens.
