@@ -82,3 +82,8 @@
     The config file must be updated to the correct path!
     We have put js function for the confirmation of the delete part and only if we click on confirm the 
     the data is deleted else nothing else happens.
+
+## The flow of Task11:
+    The tasks user/maps has the map of india and the default page of this will have the form for the
+    number and then will be redirected and the otp_confirm and then we will get the otp value from the 
+    user.
